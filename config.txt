@@ -1,4 +1,4 @@
-token=process.env.BOT_TOKEN
+token=NDk0Mjc1MDA1Nzk0NzQ2Mzk4.Do2DNw.76dhSpruBNEbSotyx1_Hr4HqWaE
 owner=469896725176385557
 prefix=c
 game=cplay
