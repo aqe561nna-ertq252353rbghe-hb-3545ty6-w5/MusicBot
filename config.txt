@@ -1,6 +1,6 @@
-token=NDk0Mjc1MDA1Nzk0NzQ2Mzk4.Do2DNw.76dhSpruBNEbSotyx1_Hr4HqWaE
+token=NDk0Mjc1MDA1Nzk0NzQ2Mzk4.Do8nag.sGiLQsypbV0Q6XCKUttZCCxUXlo
 owner=469896725176385557
 prefix=1
-game=Nothing
+game=1play
 stayinchannel=true
 songinstatus=true
