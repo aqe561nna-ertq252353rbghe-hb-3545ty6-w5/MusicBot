@@ -1,6 +1,6 @@
 token=NDk5MjU3MTIzMTU5NTM5NzEy.DqFKNA.dHt3Lpyv3xLBcJpNU-uAi0hBKioI
 owner=324346006940418049
 prefix=90
-game=90play
+game=TogetherForeever
 stayinchannel=true
 songinstatus=true
